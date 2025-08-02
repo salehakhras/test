@@ -1,0 +1,91 @@
+{
+    "dental_hub": "DentalHub",
+    "auth": {
+        "login": "Login",
+        "signup": "Sign up",
+        "logout": "logout",
+        "welcome_back": "Welcome Back to",
+        "welcome": "Welcome to",
+        "forgot_password": "Forgot Password?",
+        "login_with": "or login with",
+        "singup_with": "or signup with",
+        "don't_have_account": "Don't have an account?",
+        "already_have_account": "Already have an account?"
+    },
+    "credintals": {
+        "phone": "Phone",
+        "email": "Email",
+        "password": "Password",
+        "full_name": "Full Name",
+        "name": "Name",
+        "bio": "Bio",
+        "city": "City",
+        "street": "Street",
+        "address": "Address"
+    },
+     "create_clinic": {
+        "get_started": "Get Started",
+        "clinic_info": "Clinic Info",
+        "contact_address": "Contact & Address",
+        "working_hours": "Working Hours",
+        "confirmation": "Confirmation",
+        "ready_title": "Ready to build your own clinic?",
+        "ready_content": "Whether you're launching a new practice or organizing your dental clinic's information, we're here to help you set things up step-by-step. This quick wizard will guide you through everything you need.",
+        "clinic_information": "Clinic Information",
+        "redirecting": "You’ll be redirected to a secure Stripe page to complete your payment.",
+        "confirm_pay": "Confirm & Pay",
+        "try_again": "Something went wrong. Please try again."
+
+    },
+    "validation": {
+        "clinic_name": "Clinic Name is Required",
+        "bio": "Bio is Required",
+        "name": "Invalid Name",
+        "phone": "Invalid Phone Number",
+        "city": "Invalid city name",
+        "street": "Invalid street name",
+        "password": "Password must be at least 8 characters",
+        "email": "Invalid Email Format"
+
+
+    },
+    "next": "Next",
+    "back": "Back",
+    "add": "Add",
+    "delete": "Delete",
+    "view": "View",
+    "submit": "Submit",
+    "edit": "Edit",
+    "or": "or",
+    "created_in": "Created in",
+    "total": "Total",
+    "copied": "Copied",
+    "info": "Info",
+    "gallery": "Gallery",
+    "upload_image": "Upload Image",
+    "upload": "Upload",
+    "click_upload_image": "Click to upload an image",
+    "change_image": "Change Image",
+
+    "sidebar": {
+        "dashboard": "Dashboard",
+        "appointments": "Appointments",
+        "services": "Services",
+        "staff": "Staff",
+        "patients": "Patients",
+        "settings": "Settings"
+    },
+    "clinic": "Clinic",
+    "open_hours": "Open Hours",
+    "doctor": "Doctor",
+    "doctors": "Doctors",
+    "dr": "Dr.",
+    "specialization": "Specialization",
+    "experience_years": "Experience Years",
+    "working_hours": "Working Hours",
+    "joined_clinic": "Joined Clinic",
+    "secretary": "Secretary",
+    "secretaries": "Secretaries"
+   
+    
+}
